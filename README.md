@@ -27,10 +27,8 @@ cd example
 slush browserify
 `
 
-One the questions answered you can run a local development server
-with livereload and watchify enabled by issuing this command:
-
-`gulp`
+Once the questions answered you can run a local development server
+with livereload and watchify enabled by issuing the `gulp` command in your terminal.
 
 ## Note
 

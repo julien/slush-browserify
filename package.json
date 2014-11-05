@@ -1,0 +1,35 @@
+{
+  "name": "slush-browserify",
+  "readme": " ",
+  "version": "0.1.0",
+  "description": "A slush generator to create web apps with Browserify",
+  "main": "slushfile.js",
+  "scripts": {
+    "pre-publish": "npm prune",
+    "test": "echo \"No tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/julien/slush-browserify"
+  },
+  "keywords": [
+    "slushgenerator",
+    "browserify",
+    "watchify",
+    "livereload",
+    "gulp",
+    "minimal"
+  ],
+  "author": "Julien Castelain <jcastelain@gmail.com>",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-conflict": "latest",
+    "gulp-install": "latest",
+    "gulp-template": "latest",
+    "gulp-util": "latest",
+    "inquirer": "latest",
+    "underscore.string": "latest"
+  }
+}

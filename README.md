@@ -30,8 +30,3 @@ slush browserify
 Once the questions answered you can run a local development server
 with livereload and watchify enabled by issuing the `gulp` command in your terminal.
 
-## Note
-
-This project is still being developed so don't expect too much.
-Contributions are more that welcome.
-
